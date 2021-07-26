@@ -11,6 +11,6 @@ Num|Title|Description
 3|[Improving Neural Architecture Search]([Paper Review] Improving Neural Architecture Search.pdf)|우수한 신경망 모델의 블록 조합을 찾기 위해 앙상블 모델 중 AdaNAS 알고리즘을 적용함
 
 
-출처 : 1. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015063537&dbt=DIKO
-2. https://doi.org/10.7780/kjrs.2020.36.5.3.7
+출처 : 1. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015063537&dbt=DIKO   
+2. https://doi.org/10.7780/kjrs.2020.36.5.3.7   
 3. https://arxiv.org/abs/1903.06236
