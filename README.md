@@ -13,7 +13,7 @@ Num|Title|Description
 4|[The application of machine learning in bank credit rating prediction and risk assessment](https://github.com/GodJiLee/Paper-Review/blob/4c9725f55c4b56a16923fea680a7ec91d6f499b8/%5BPaper%20Review%5D%20The%20application%20of%20machine%20learning%20in%20bank%20credit%20rating%20prediction%20and%20risk%20assessment.pdf)|기업의 신용등급 예측을 위해 SVM, Random Forest, Gradient Boosted Classification 등의 알고리즘을 적용하며, 각 모델의 성능을 비교함
 
 ##  
-*출처 :    *
+*출처 :*   
 1. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015063537&dbt=DIKO   
 2. https://doi.org/10.7780/kjrs.2020.36.5.3.7   
 3. https://arxiv.org/abs/1903.06236   
