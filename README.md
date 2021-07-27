@@ -12,7 +12,7 @@ Num|Title|Description
 3|[Improving Neural Architecture Search](https://github.com/GodJiLee/Paper-Review/blob/90042b1c679ff535f6f90a3732da27a08933074e/%5BPaper%20Review%5D%20Improving%20Neural%20Architecture%20Search.pdf)|우수한 신경망 모델의 블록 조합을 찾기 위해 앙상블 모델 중 AdaNAS 알고리즘을 적용함
 4|[The application of machine learning in bank credit rating prediction and risk assessment](https://github.com/GodJiLee/Paper-Review/blob/4c9725f55c4b56a16923fea680a7ec91d6f499b8/%5BPaper%20Review%5D%20The%20application%20of%20machine%20learning%20in%20bank%20credit%20rating%20prediction%20and%20risk%20assessment.pdf)|기업의 신용등급 예측을 위해 SVM, Random Forest, Gradient Boosted Classification 등의 알고리즘을 적용하며, 각 모델의 성능을 비교함
 
-
+##  
 출처 :    
 1. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015063537&dbt=DIKO   
 2. https://doi.org/10.7780/kjrs.2020.36.5.3.7   
