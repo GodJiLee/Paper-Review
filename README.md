@@ -14,7 +14,7 @@ Num|Title|Description
 
 ##  
 *출처 :*   
-1. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015063537&dbt=DIKO   
-2. https://doi.org/10.7780/kjrs.2020.36.5.3.7   
-3. https://arxiv.org/abs/1903.06236   
-4. https://ieeexplore.ieee.org/abstract/document/9389901?casa_token=V_DSxToFAuMAAAAA:pOm4dJIRGTg7EwxBSm1wKGk49dXKggzED8e4mgLsn_0z1Iqs19JOmNORPiJVNh0DU-gu2SOIKOk   
+*1. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015063537&dbt=DIKO*   
+*2. https://doi.org/10.7780/kjrs.2020.36.5.3.7*   
+*3. https://arxiv.org/abs/1903.06236*   
+*4. https://ieeexplore.ieee.org/abstract/document/9389901?casa_token=V_DSxToFAuMAAAAA:pOm4dJIRGTg7EwxBSm1wKGk49dXKggzED8e4mgLsn_0z1Iqs19JOmNORPiJVNh0DU-gu2SOIKOk*   
